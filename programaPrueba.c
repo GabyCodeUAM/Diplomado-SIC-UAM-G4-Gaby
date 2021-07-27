@@ -16,5 +16,10 @@ int main() {
   res=n1/n2;
   printf("La división es: %d\n",res);
 
+  //modificación módulo
+  res=n1%n2;
+  printf("El módulo es: %d\n",res);
+
+
   return 0;
 }
